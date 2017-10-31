@@ -1,4 +1,4 @@
-# Happy Hacktoberfest
+# Happy Hacktoberfest 2017
 Happy Hacktoberfest folks!
 
 Task: Add your name to hacktoberfest-2017.md and send PR. :)
